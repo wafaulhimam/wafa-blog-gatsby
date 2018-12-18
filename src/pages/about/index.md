@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About Me
 ---
-<img src="https://wafaulhimam.github.io/img/banner-img.png" alt="Muhammad Wafaul Himam"/>
+<center><img src="https://wafaulhimam.github.io/img/banner-img.png" alt="Muhammad Wafaul Himam"/></center>
 
 An enthusiastic **Web Designer** and **Frontend Develope**r with exceptional flexibility as well as a keen desire to improve and develop new skills. 
 
